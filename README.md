@@ -1,11 +1,3 @@
-# Sample Snack app
+Hatch
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+This is Hatch, a mobile application helping creatives express their ideas in a more user friend platform while having the option to collaborate. We begin with an animated splash screen which leads you to Facebook login. The feed screen shows all your friend's posts and your posts as well. You can update this feed through an animated swiper.  The discover screen allows you to search and look at posts by category. The post screen allows you to post a card made up of topic, description, and image. The favorites screen will be populated with the posts you favorite, which is by clicking the eye on the card. The profile is a standard profile page that provides your information. You can swipe the screen to access the messages page, which is meant for collaboration.
